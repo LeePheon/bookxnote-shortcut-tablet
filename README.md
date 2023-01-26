@@ -11,3 +11,5 @@ quick using bookxnote with tablet pad and hotkeys
 * 文本 ctrl+a
 * 涂鸦 ctrl+e
 * 橡皮擦 ctrl+u
+### 2. 代码
+看库
